@@ -1,0 +1,11 @@
+Cpanel
+
+username:q3ghafok03iy
+pwd:Jntuk@2023EcE
+
+Changes for the website.
+
+Registration form changes.
+1. Gender drop down
+2. Phone number (only number with 10 digits -regular expressions)
+3. Create password (text is visible)

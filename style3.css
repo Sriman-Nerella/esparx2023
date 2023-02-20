@@ -1,0 +1,24 @@
+.divi
+{
+    width:500px;
+    margin: auto;
+    margin-top:50px;
+    background:black;
+}
+#show,#hide
+{
+  position:relative;
+  top:-37px;
+  left:90%;
+}
+#hide
+{
+  left:390px;
+  visibility:hidden;
+}
+.lab
+{
+    color:white;
+}
+
+

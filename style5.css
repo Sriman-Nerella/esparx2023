@@ -1,0 +1,138 @@
+#divis
+	{
+	    background:url(sHEET.jpg);
+	    display:block;
+	    background-repeat: no-repeat;
+	    background-size: 100% 100%;
+	    height:800px;
+	    
+	}
+	    .ep2
+{
+    width:430px;
+    font-weight:500;
+}
+.row{
+    margin-left:9em;
+    margin-right:9em;
+    margin-bottom:2em;
+}
+.card
+{
+    height:200px;
+    background-color:black;
+}
+.card-body
+{
+    color:white;
+}
+#downl
+{
+    color:white;
+}
+#ess
+{
+    font-size:25px;
+}
+#follow
+{
+    background:black;
+}
+i
+{
+    font-size:30px;
+}
+#l5
+{
+    color:blue;
+    margin-right:20px;
+    
+}
+#l2
+{
+    color:pink;
+    margin-right:20px;
+    margin-left:20px;
+}
+#l3
+{
+    color:red;
+    margin-right:20px;
+}
+#l4
+{
+    color:cyan;
+    margin-right:20px;
+}
+.new1
+{
+    background:black;
+}
+.navbar-toggler
+{
+    border-color:white;
+    color:grey;
+}
+.navbar-brand
+{
+    color:white;
+}
+/*span*/
+/*{*/
+/*    color:black;*/
+/*    background-color:white;*/
+/*    font-size:15px;*/
+/*    margin:auto;*/
+/*}*/
+.ep2
+{
+    width:400px;
+    font-weight:500;
+}
+#es1
+{
+    font-family:Bahnschrift Condensed;
+    font-size:25px;
+    font-weight:bold;
+    color:white;
+    
+}
+#und1
+{
+    position:relative;
+    margin-top:-50px;
+    background:transparent;
+    width:60px;
+    height:5px;
+}
+#table-1
+{
+    margin-left:150px;
+    margin-right:150px;
+    margin-top:-10px;
+}
+#es2
+{
+    position:relative;
+    font-size:20px;
+    font-weight:500;
+    color:white;
+    
+}
+.g2
+{
+    background:black;
+}
+.es1
+{
+    position:relative;
+    font-size:20px;
+    font-weight:500;
+    margin-top:-15px;
+    color:white;
+}
+.ep2
+{
+    margin-top:-20px;
+    color:white;
+}

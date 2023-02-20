@@ -1,0 +1,27 @@
+
+SIGN UP FORM
+
+
+first name	last name
+gender:
+Date of birth:
+Email:
+password:
+Confirm password:
+Phone number:
+
+
+WORKSHOP REGISTRATION FORM
+
+
+College name:
+Roll number:
+Year:
+Payment phone number: Radio check in (same as given number)
+Workshop intrested (DropDown):
+QR or phone numbers:
+Upload pic:
+
+Submit
+
+Successful submission mail.
